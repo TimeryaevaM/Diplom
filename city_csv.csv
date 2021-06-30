@@ -1,0 +1,348 @@
+,city
+san antonio,17019
+houston,13777
+chicago,6470
+las vegas,5841
+miami,5812
+jacksonville,5735
+brooklyn,4581
+philadelphia,4388
+dallas,4216
+charlotte,3908
+atlanta,3847
+cleveland,3373
+nashville,3298
+orlando,3273
+tampa,3245
+fort worth,3215
+palm coast,3006
+ocala,2965
+detroit,2858
+washington,2854
+kissimmee,2790
+austin,2759
+new york,2688
+indianapolis,2648
+fort lauderdale,2528
+lehigh acres,2476
+portland,2079
+paso,2015
+denver,2012
+saint petersburg,1989
+raleigh,1880
+reno,1698
+san diego,1665
+cincinnati,1561
+chattanooga,1393
+memphis,1377
+durham,1358
+cape coral,1338
+knoxville,1266
+flushing,1235
+fresno,1199
+sacramento,1191
+bronx,1165
+hollywood,1126
+pensacola,1106
+wilmington,1080
+jamaica,1067
+panama beach,1056
+clarksville,1041
+vancouver,1010
+port saint lucie,1006
+irvine,998
+lakeland,969
+mckinney,957
+bonita springs,952
+west palm beach,938
+fayetteville,933
+palm bay,924
+lakewood,901
+tallahassee,887
+spokane,870
+spring,840
+laredo,836
+spring hill,804
+murfreesboro,804
+winston salem,789
+clearwater,787
+san jose,785
+panama,767
+midland,736
+glendale,693
+gainesville,656
+greensboro,652
+mcallen,608
+tacoma,601
+san francisco,594
+oakland,546
+pompano beach,540
+longview,520
+buffalo,520
+pembroke pines,516
+hialeah,509
+saint johns,505
+sandy springs,477
+concord,472
+anaheim,471
+brownsville,467
+deltona,461
+syracuse,452
+leesburg,450
+davie,447
+boston,439
+pearland,438
+waco,437
+kingsport,436
+beaumont,433
+killeen,428
+huntington beach,427
+salt lake,425
+peoria,422
+round rock,415
+saint louis,413
+albany,412
+plantation,406
+miami beach,401
+kennewick,389
+miramar,384
+denton,381
+pasadena,381
+coral springs,380
+johnson,379
+yakima,370
+garland,362
+cleveland heights,359
+sunrise,358
+tamarac,358
+lauderhill,350
+antioch,349
+aurora,346
+hickory,343
+fremont,341
+weston,339
+league,332
+irving,325
+santa ana,324
+amarillo,324
+gastonia,324
+bellingham,323
+sunny islbeach,309
+binghamton,308
+miami gardens,305
+sarasota,302
+columbus,292
+bellevue,289
+thornton,289
+everett,285
+aventura,283
+renton,281
+olympia,275
+greenville,273
+springfield,272
+kent,270
+tyler,258
+arlington,255
+la jolla,254
+lancaster,252
+horizon,250
+garfield heights,243
+winthaven,242
+burlington,236
+brandon,233
+doral,222
+grand prairie,221
+coral gables,218
+euclid,207
+high point,198
+brentwood,185
+salem,182
+maple heights,175
+hermitage,174
+bremerton,172
+texas,170
+brookhaven,164
+woodland hills,163
+oakland park,158
+temple,156
+madison,154
+richardson,154
+grand junction,153
+saginaw,152
+south euclid,151
+weeki wachee,151
+cordova,151
+shoreline,151
+saint pete beach,150
+north las vegas,150
+old hickory,148
+north port,146
+bakersfield,146
+north richland hills,146
+lauderdale lakes,145
+highpoint,142
+commerce,142
+colorado springs,142
+north miami beach,138
+socorro,136
+jacksonville beach,136
+kansas,134
+littleton,131
+sherman oaks,128
+corona,116
+north miami,114
+redford,114
+odessa,114
+oceanside,113
+santa rosa,110
+wilton manors,110
+studio,109
+marysville,109
+tigard,108
+far rockaway,108
+lakeway,107
+southwest ranches,107
+long beach,104
+gulfport,104
+allentown,103
+victorville,102
+akron,102
+independence,102
+dmoines,101
+rockford,100
+college park,99
+naperville,98
+modesto,97
+riverside,97
+venice,97
+chevy chase,95
+stockton,95
+savannah,93
+burien,92
+santa clara,88
+palmdale,87
+toledo,87
+redding,86
+macon,85
+rochester,85
+miami lakes,84
+cutlbay,84
+yonkers,84
+lyndhurst,83
+sachse,82
+san bernardino,80
+poughkeepsie,78
+saint george,76
+madeira beach,76
+canton,73
+augusta,71
+warren,70
+elk grove,69
+pottstown,68
+evansville,66
+bedford,66
+lorain,66
+south bend,64
+warnrobins,64
+temecula,63
+lowell,62
+harpwoods,62
+farmers branch,61
+moreno valley,60
+chula vista,60
+palmetto bay,60
+surfside,58
+oxnard,57
+lake in the hills,57
+mission viejo,57
+worcester,57
+indio,56
+grand rapids,56
+dayton,56
+boulder,56
+middleburg heights,56
+nbedford,54
+scranton,53
+columbiana,53
+watauga,52
+north bay village,52
+grosse pointe woods,51
+jurupa valley,51
+northpoint,51
+northridge,51
+joelton,50
+flint,49
+portranch,49
+ventura,48
+clovis,48
+elkhart,47
+circleville,46
+downey,46
+bay village,46
+helotes,44
+redington shores,44
+yuba,44
+strongsville,44
+visalia,43
+york,43
+cooper,41
+sunnyvale,41
+sunland,40
+pomona,40
+tukwila,39
+hamtramck,38
+floral park,38
+west seneca,37
+harrisburg,37
+youngstown,36
+mc allen,36
+alamo heights,36
+gray,35
+howard beach,35
+south miami,35
+berkeley,35
+chico,34
+northglenn,30
+fullerton,30
+utica,29
+monte,29
+richland hills,28
+oak park,28
+south boston,27
+fairfax,26
+canoga park,25
+queens village,24
+highland heights,24
+lafayette,23
+missouri,23
+opa locka,21
+euless,20
+cambridge,19
+hialeah gardens,19
+kenneth,18
+rivrouge,18
+rosedale,16
+norridgewock,15
+east boston,14
+hyannis,14
+chimnrock,11
+mount rainier,10
+south richmond hill,10
+hurst,9
+bermuda dunes,8
+centerville,8
+inglewood,8
+rockaway beach,8
+leon valley,7
+takoma park,6
+galena park,6
+adams,4
+valrico,4
+vallview,3
+south holland,3
+georgetown,3
+other,1
+roxbury,1
+rushville,1
+pittsfield,1
+lake oswego,1
